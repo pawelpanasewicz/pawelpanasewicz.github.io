@@ -1,1 +1,1 @@
-#Hello github pages!
+Static content for my github page
